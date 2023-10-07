@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @opokuamaning
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Javasript
-- 💞️ I’m looking to collaborate on everyone
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me @amaningopoku on twitter
 
 <!---
